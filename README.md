@@ -8,11 +8,11 @@ Tool Tăng Lượt Xem YouTube được phát triển bằng C# giúp tăng lư�
 - **Đổi Proxy**: Thay đổi Proxy giúp tránh bị YouTube phát hiện và hạn chế lượt xem.
 - **Thêm Tab**: Mở thêm nhiều tab YouTube chạy video cùng lúc để tăng lượt xem.
 - **Khôi phục**: Tự động khôi phục các tab nếu bị lỗi hoặc bị đóng.
-- **Mở Video**: Cho phép nhập URL video YouTube để bắt đầu xem.
+- **Mở Video**: Cho phép nhập URL video YouTube để bắt đầu xem. Các tab đều mở cùng lúc video đó!
 
 ## Hướng dẫn sử dụng
 1. **Tải về và cài đặt**:
-   - Tải tool về máy và chạy file `.exe` để khởi động.
+   - Tải tool về máy và chạy file `ToolYoutube.msi` để khởi động.
 
 2. **Cấu hình và sử dụng**:
    - Mở tool và nhập link video YouTube vào ô URL.
@@ -42,6 +42,7 @@ Xem hướng dẫn chi tiết cách sử dụng tool trên YouTube:
 
 ## Tác giả
 - **Lý Trần**
+  ![Ảnh tác giả](lytran.ico)
 - **Zalo**: [Liên hệ tại đây](https://zalo.me/+84876437046)
 
 Cảm ơn bạn đã sử dụng Tool Tăng Lượt Xem YouTube! Nếu có bất kỳ vấn đề hoặc câu hỏi nào, hãy liên hệ qua Zalo.
